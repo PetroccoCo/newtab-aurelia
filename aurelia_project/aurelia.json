@@ -115,6 +115,7 @@
           "aurelia-task-queue",
           "aurelia-templating",
           "aurelia-templating-binding",
+          "moment",
           "text",
           {
             "name": "aurelia-templating-resources",
